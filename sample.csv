@@ -1,0 +1,22 @@
+user_id,user_name,track_id,track_title,artist_id,artist_name,genre,action
+u1,Alice,t1,Song A,a1,Artist X,Rock,LISTENED
+u1,Alice,t2,Song B,a2,Artist Y,Jazz,LISTENED
+u2,Bob,t2,Song B,a2,Artist Y,Jazz,LISTENED
+u2,Bob,t3,Song C,a3,Artist Z,Pop,LISTENED
+u3,Carol,t1,Song A,a1,Artist X,Rock,LISTENED
+u3,Carol,t4,Song D,a4,Artist W,Rock,LISTENED
+u1,Alice,,,"a1","Artist X",,FOLLOWS
+u2,Bob,,,"a2","Artist Y",,FOLLOWS
+u3,Carol,,,"a4","Artist W",,FOLLOWS
+u1,Alice,t1,Song A,a1,Artist X,Rock,LIKED
+u2,Bob,t2,Song B,a2,Artist Y,Jazz,LIKED
+u3,Carol,t4,Song D,a4,Artist W,Rock,LIKED
+u1,Alice,t5,Song E,a5,Artist V,Pop,LISTENED
+u2,Bob,t6,Song F,a6,Artist U,Rock,LISTENED
+u3,Carol,t7,Song G,a7,Artist T,Jazz,LISTENED
+u1,Alice,t8,Song H,a8,Artist S,Jazz,LISTENED
+u2,Bob,t9,Song I,a9,Artist R,Pop,LISTENED
+u3,Carol,t10,Song J,a10,Artist Q,Rock,LISTENED
+u1,Alice,t11,Song K,a11,Artist P,Pop,LISTENED
+u2,Bob,t12,Song L,a12,Artist O,Jazz,LISTENED
+
